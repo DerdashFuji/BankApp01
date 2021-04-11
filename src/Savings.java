@@ -18,7 +18,8 @@ public class Savings {
 	
 	//Field declarations go here
 	
-	
+	private savingsAccountID;
+	private savingsAccountPin ;
 	
 	
 	/*
