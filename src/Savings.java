@@ -17,7 +17,7 @@ public class Savings {
 	 */
 	
 	//Field declarations go here
-	
+	private savingsAccountID01;
 	private savingsAccountID;
 	private savingsAccountPin ;
 	// test try change
