@@ -21,6 +21,7 @@ public class Savings {
 	private savingsAccountID;
 	private savingsAccountPin ;
 	// test try change
+	// test cmmited by manuaally
 	
 	/*
 	 * Constructor that initializes Savings account object
